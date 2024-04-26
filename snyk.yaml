@@ -1,0 +1,5 @@
+Title: Outdated Package: express@4.16.0
+Description: express@4.16.0 has known security vulnerabilities (8 medium severity).
+Current Version: 4.16.0
+Patched Version: 4.17.1
+Severity: Medium
